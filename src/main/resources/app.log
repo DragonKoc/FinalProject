@@ -1,0 +1,760 @@
+2021-06-01 14:39:54,850 INFO a.m.SourceBooks [main] создание справочника поскольку он отсутствует в системе
+2021-06-01 14:42:25,986 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 14:42:25,999 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 14:43:17,736 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 14:43:17,738 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 14:43:17,751 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 14:44:00,331 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 14:44:00,333 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 14:44:00,345 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 14:46:03,781 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 14:46:03,783 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 14:46:03,799 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 14:47:51,211 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 14:48:21,437 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 14:48:21,439 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 14:48:21,451 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 14:48:50,817 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 14:48:50,819 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 14:48:50,832 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 14:50:00,562 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 14:50:00,564 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 14:50:00,575 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 14:51:01,166 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 14:51:01,168 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 14:51:01,180 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 14:51:04,414 INFO a.c.BooksController [main] добавление новой книги
+2021-06-01 14:51:12,652 INFO a.c.BooksController [main] Add new book from filds: name:werwe, author:wer
+2021-06-01 14:53:17,720 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 14:53:17,728 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 14:53:17,728 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 14:53:17,728 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 14:53:17,729 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 14:53:17,744 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 14:53:17,751 DEBUG a.c.BooksController [main] start application by execute()
+2021-06-01 14:53:27,135 DEBUG a.c.BooksController [main] добавление новой книги
+2021-06-01 14:53:37,112 DEBUG a.c.BooksController [main] Add new book from filds: name:ewrew, author:werwe
+2021-06-01 14:55:48,028 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 14:55:48,037 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 14:55:48,038 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 14:55:48,038 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 14:55:48,038 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 14:55:48,051 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 14:55:48,056 DEBUG a.c.BooksController [main] start application by execute()
+2021-06-01 14:59:50,471 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 14:59:50,480 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 14:59:50,480 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 14:59:50,480 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 14:59:50,481 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 14:59:50,494 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 14:59:50,500 DEBUG a.c.BooksController [main] start application by execute()
+2021-06-01 15:02:28,263 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 15:02:28,269 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 15:02:28,270 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 15:02:28,270 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 15:02:28,270 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 15:02:28,282 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:02:28,286 DEBUG a.c.BooksController [main] start application by execute()
+2021-06-01 15:03:02,029 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 15:03:02,035 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 15:03:02,035 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 15:03:02,035 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 15:03:02,036 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 15:03:02,047 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:03:02,051 DEBUG a.c.BooksController [main] start application by execute()
+2021-06-01 15:03:22,671 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 15:03:22,678 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 15:03:22,678 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 15:03:22,679 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 15:03:22,679 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 15:03:22,691 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:03:22,695 DEBUG a.c.BooksController [main] start application by execute()
+2021-06-01 15:03:55,358 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:04:12,001 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:04:12,001 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:04:22,682 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 15:04:22,682 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 15:04:22,684 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 15:04:22,684 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 15:04:22,684 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 15:04:22,684 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 15:04:22,685 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 15:04:22,685 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 15:04:22,696 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:04:22,696 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:04:36,457 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 15:04:36,459 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 15:04:36,459 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 15:04:36,460 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 15:04:36,472 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:05:20,896 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 15:05:20,898 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 15:05:20,911 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:05:53,126 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 15:05:53,128 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 15:05:53,140 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:06:08,564 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 15:06:08,566 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 15:06:08,579 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:06:37,193 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 15:06:37,199 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 15:06:37,200 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 15:06:37,212 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:06:37,217 DEBUG a.c.BooksController [main] start application by execute()
+2021-06-01 15:07:11,274 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 15:07:11,278 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 15:07:11,278 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 15:07:11,279 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 15:07:11,293 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:07:48,269 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 15:07:48,278 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 15:07:48,279 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 15:07:48,279 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 15:07:48,280 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 15:07:48,293 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:07:48,300 DEBUG a.c.BooksController [main] start application by execute()
+2021-06-01 15:09:14,222 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 15:09:14,224 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 15:09:14,224 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 15:09:14,224 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 15:09:14,235 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:15:21,210 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:21:09,455 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:22:26,246 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:23:01,537 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 15:23:18,889 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 16:10:11,693 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 16:11:05,346 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 16:11:54,748 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 16:15:49,462 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 16:17:51,040 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 16:21:40,137 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 16:22:03,753 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 16:27:53,024 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 17:37:36,273 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 17:37:36,275 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 17:37:36,276 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 17:38:27,947 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 17:38:27,949 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 17:38:27,950 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 17:41:31,594 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 17:41:31,596 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 17:41:31,597 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 17:41:31,607 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 17:43:03,336 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 17:43:03,339 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 17:43:03,340 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 17:43:03,350 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 17:44:41,422 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 17:44:41,425 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 17:44:41,425 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 17:44:41,434 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 17:47:15,050 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 17:47:15,053 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 17:47:15,054 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 17:47:15,063 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 17:47:15,063 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 17:47:15,064 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 17:47:15,064 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 17:47:15,088 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 17:47:41,303 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 17:47:41,306 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 17:47:41,306 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 17:47:41,313 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 17:47:41,314 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 17:47:41,315 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 17:47:41,315 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 17:47:41,337 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 17:48:10,136 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 17:48:10,141 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 17:48:10,142 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 17:49:34,443 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 17:49:34,448 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 17:49:34,449 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 17:49:34,467 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 17:49:34,468 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 17:49:34,468 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 17:49:34,468 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 17:49:34,494 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 17:50:20,727 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 17:50:20,729 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 17:50:20,730 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 17:50:20,740 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 17:51:26,114 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 19:24:23,215 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 19:24:23,218 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 19:24:23,218 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 19:24:23,233 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 20:41:30,694 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 20:41:30,696 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 20:41:30,696 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 20:41:30,704 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 20:45:14,010 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 20:45:14,012 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 20:45:14,012 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 20:45:14,022 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:09:08,651 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:09:25,523 INFO a.c.BooksController [main] increase cost by book for :50
+2021-06-01 22:09:31,863 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:18:30,679 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 22:18:30,683 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 22:18:30,683 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 22:18:30,695 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:18:30,711 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 22:18:30,712 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 22:18:30,712 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 22:20:14,539 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 22:20:14,544 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 22:20:14,544 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 22:20:35,323 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 22:20:35,327 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 22:20:35,328 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 22:20:42,122 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 22:20:42,122 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 22:20:42,122 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 22:20:52,908 INFO a.c.BooksController [main] increase cost by book for :50
+2021-06-01 22:20:52,908 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 22:20:52,908 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 22:20:52,908 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 22:21:00,822 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 22:21:00,826 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 22:21:00,828 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 22:22:05,307 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 22:22:05,312 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 22:22:05,313 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 22:22:19,824 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 22:22:19,824 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 22:22:19,824 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 22:22:40,221 INFO a.c.BooksController [main] increase cost by book for :50
+2021-06-01 22:22:40,221 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 22:22:40,221 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 22:22:40,221 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 22:22:42,403 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 22:22:42,403 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 22:22:42,403 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 22:30:51,775 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:31:12,425 INFO a.c.BooksController [main] increase cost by book for :50
+2021-06-01 22:31:20,816 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:31:34,160 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 22:31:34,162 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 22:31:34,163 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 22:31:34,174 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:31:34,191 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 22:31:34,192 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 22:31:34,192 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 22:32:12,441 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:32:24,403 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:33:35,368 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 22:33:35,370 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 22:33:35,370 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 22:33:35,371 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 22:33:35,384 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:33:46,114 INFO a.c.BooksController [main] increase cost by book for :50
+2021-06-01 22:33:56,551 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:35:05,555 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 22:35:05,558 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 22:35:05,558 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 22:35:05,567 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:35:05,580 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 22:35:05,580 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 22:35:05,580 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 22:38:51,723 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:43:13,690 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:43:56,709 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:48:24,325 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:53:14,972 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:55:23,993 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:56:17,734 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:56:17,739 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:56:17,741 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:56:17,757 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 22:56:17,758 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 22:56:17,759 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 22:56:17,761 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:56:17,778 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 22:56:17,779 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 22:56:17,779 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 22:57:02,414 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:57:02,421 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:57:02,424 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 22:57:23,888 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:02:59,531 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:19:24,079 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:19:35,258 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:19:52,216 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:20:06,726 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:20:30,752 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:20:48,342 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:21:05,633 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:21:05,633 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:21:33,727 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:21:43,884 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:22:02,575 INFO a.m.SourceBooks [main] не пройдена проверка наличия справочника, справочник будет пересоздан
+2021-06-01 23:22:02,577 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-01 23:22:02,578 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-01 23:22:02,579 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-01 23:22:02,593 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:23:19,761 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:23:19,770 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:23:19,775 DEBUG a.c.BooksController [main] start application by execute()
+2021-06-01 23:23:37,219 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:23:37,228 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:23:37,233 DEBUG a.c.BooksController [main] start application by execute()
+2021-06-01 23:23:57,655 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:23:57,665 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:23:57,670 DEBUG a.c.BooksController [main] start application by execute()
+2021-06-01 23:25:22,876 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:25:22,885 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:25:22,890 DEBUG a.c.BooksController [main] start application by execute()
+2021-06-01 23:25:30,212 DEBUG a.c.BooksController [main] initialize Start menu for User
+2021-06-01 23:25:30,214 DEBUG a.c.BooksController [main] End initialize Start menu for User
+2021-06-01 23:27:05,391 DEBUG a.c.BooksController [main] initialize Start menu for User
+2021-06-01 23:27:05,391 DEBUG a.c.BooksController [main] добавление новой книги
+2021-06-01 23:27:17,231 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:27:17,240 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:27:17,244 DEBUG a.c.BooksController [main] start application by execute()
+2021-06-01 23:27:19,667 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:27:24,792 DEBUG a.c.BooksController [main] добавление новой книги
+2021-06-01 23:27:45,530 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:27:45,539 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:27:45,543 DEBUG a.c.BooksController [main] start application by execute()
+2021-06-01 23:29:45,508 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:29:45,517 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:30:12,728 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:31:48,573 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:31:48,583 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:32:13,822 INFO a.c.BooksController [main] increase cost by book  [Book{name='HeadFirstJava, author='Beyts, publish='Almanah, year=1905, countPages=100, cost=1000.5}] for :50
+2021-06-01 23:32:13,834 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:33:52,387 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:33:52,398 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:33:57,451 INFO a.c.BooksController [main] Start menu of FindBooks
+2021-06-01 23:34:12,759 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:34:12,770 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:34:14,334 INFO a.c.BooksController [main] Start menu of FindBooks
+2021-06-01 23:35:06,901 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:35:06,911 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:35:08,291 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:35:11,652 INFO a.c.BooksController [main] Start menu of FindBooks
+2021-06-01 23:35:13,067 INFO a.c.BooksController [main] search by name start
+2021-06-01 23:36:10,325 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:36:10,336 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:36:11,468 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:36:13,583 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-01 23:36:15,488 DEBUG a.c.BooksController [main] search by year start
+2021-06-01 23:36:19,211 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:37:50,656 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:37:50,666 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:37:52,480 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-01 23:37:54,201 DEBUG a.c.BooksController [main] search by year start
+2021-06-01 23:37:57,899 DEBUG a.c.BooksController [main] search by year finish
+2021-06-01 23:37:57,899 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:38:04,081 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-01 23:38:05,131 DEBUG a.c.BooksController [main] search by year start
+2021-06-01 23:38:07,013 DEBUG a.c.BooksController [main] search by year finish
+2021-06-01 23:38:07,013 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:38:46,299 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:38:46,309 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:38:48,095 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-01 23:38:49,065 DEBUG a.c.BooksController [main] search by year start
+2021-06-01 23:38:50,350 DEBUG a.c.BooksController [main] search by year finish
+2021-06-01 23:38:50,350 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:40:18,053 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:40:18,062 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:40:21,109 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:40:43,950 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:40:43,961 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:40:47,533 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:40:49,863 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:40:51,311 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:40:54,040 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:41:38,188 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:42:12,460 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:42:12,469 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:42:32,297 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:42:32,307 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:42:33,829 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-01 23:42:49,159 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:43:26,902 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:43:26,912 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:43:29,775 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-01 23:43:31,703 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-01 23:43:31,704 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:43:36,872 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:43:44,119 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:44:24,928 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:44:24,938 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:44:26,046 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-01 23:44:27,780 DEBUG a.c.BooksController [main] Error by numeric User enter
+ main Menu
+2021-06-01 23:44:27,781 DEBUG a.c.BooksController [main] End void execute()
+2021-06-01 23:45:04,115 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-01 23:45:04,125 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-01 23:45:06,647 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-01 23:45:09,625 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-01 23:45:09,626 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-01 23:45:09,626 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 11:53:27,009 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:02:37,102 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:03:11,689 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:03:53,346 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:04:36,628 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:06:02,406 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:06:33,332 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:06:43,175 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:07:21,495 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:07:41,642 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:08:22,607 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:08:34,415 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:09:51,302 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:10:15,930 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:13:29,382 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:14:34,376 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:15:18,332 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:15:57,472 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:16:01,989 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:17:32,263 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:18:33,067 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:18:40,623 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:20:01,085 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:20:17,216 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:21:41,072 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:22:12,743 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:22:41,536 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:24:01,506 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:24:23,040 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:24:23,044 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:24:23,046 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:24:23,048 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:24:23,050 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:24:23,051 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:28:46,084 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:29:20,595 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:33:04,438 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:33:41,814 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:33:41,821 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:33:41,823 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:33:41,825 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:33:41,826 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:33:41,828 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:33:41,829 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:33:41,830 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:33:41,835 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:33:41,838 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:33:41,841 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:33:41,844 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:33:41,847 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:33:41,849 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:33:41,851 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:33:41,873 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-02 12:33:41,873 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-02 12:33:41,874 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-02 12:33:41,875 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 12:33:41,884 INFO a.m.SourceBooks [main] создание справочника из генератора
+2021-06-02 12:33:41,885 DEBUG a.m.SourceBooks [main] List<Book> list = new ArrayList<>() создан
+2021-06-02 12:33:41,885 DEBUG a.m.SourceBooks [main] list наполнен
+2021-06-02 15:28:15,668 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:28:15,680 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:29:16,947 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 15:30:13,780 DEBUG a.c.BooksController [main] добавление новой книги
+2021-06-02 15:31:46,992 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:31:47,002 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:31:49,042 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 15:32:55,031 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:33:03,343 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:33:03,343 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:33:12,637 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:33:12,645 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:33:17,400 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:33:19,001 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:33:19,002 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:34:00,592 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:34:00,601 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:34:07,259 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:34:08,616 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:34:08,616 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:34:08,616 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 15:34:12,735 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:34:14,295 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:34:14,296 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:34:14,296 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 15:34:19,696 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:34:20,922 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:34:20,922 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:36:00,762 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:36:00,772 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:36:03,299 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:36:04,855 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:36:04,855 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:39:51,459 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:39:51,469 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:39:53,668 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:40:31,923 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:40:31,933 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:40:33,564 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:40:34,698 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:40:34,698 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:42:03,949 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:42:03,959 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:42:05,398 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:42:06,543 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:42:06,543 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:42:25,037 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:42:25,046 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:42:27,528 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:42:28,180 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:42:28,181 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:45:12,297 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:45:12,307 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:45:14,510 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:45:15,881 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:45:15,881 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:48:30,634 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:48:30,651 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:48:32,842 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:48:33,603 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:48:33,603 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:49:48,758 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:49:48,768 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:49:50,903 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:49:51,863 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:49:51,863 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:49:51,863 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:49:56,902 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:49:56,902 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:49:56,903 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:50:11,357 DEBUG a.c.BooksController [main] search by name start
+2021-06-02 15:50:40,417 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:50:40,427 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:50:43,084 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 15:50:44,843 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:50:46,027 DEBUG a.c.BooksController [main] search by name start
+2021-06-02 15:50:50,133 DEBUG a.c.BooksController [main] increase cost by book  [Book{name='HeadFirstJava, author='Beyts, publish='Almanah, year=1905, countPages=100, cost=1000.5}] for :50
+2021-06-02 15:50:50,133 INFO a.c.BooksController [main] increase cost by book for :50
+2021-06-02 15:50:50,147 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 15:50:59,125 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 15:51:18,521 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:51:18,529 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:51:20,578 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:51:22,622 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:51:22,622 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:51:22,622 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:51:28,151 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:51:28,152 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:51:28,152 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:51:29,969 DEBUG a.c.BooksController [main] search by name start
+2021-06-02 15:53:25,811 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:53:25,820 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:53:27,477 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:53:32,421 DEBUG a.c.BooksController [main] search by year start
+2021-06-02 15:53:33,817 DEBUG a.c.BooksController [main] search by year finish
+2021-06-02 15:53:49,230 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:53:49,237 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:53:52,247 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:53:53,875 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:53:53,876 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:53:53,876 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:53:57,594 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:53:57,594 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:53:57,594 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:53:59,176 DEBUG a.c.BooksController [main] search by name start
+2021-06-02 15:54:28,315 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:54:28,331 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:54:30,216 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:54:31,900 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:54:31,900 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:54:31,900 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:54:33,713 DEBUG a.c.BooksController [main] search by name start
+2021-06-02 15:55:26,087 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:55:26,098 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:55:44,573 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:56:33,770 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:56:33,771 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:56:33,771 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:56:42,021 DEBUG a.c.BooksController [main] search by name start
+2021-06-02 15:56:45,170 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:56:56,235 DEBUG a.c.BooksController [main] search by name start
+2021-06-02 15:56:58,268 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:57:53,352 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:57:53,361 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:58:02,795 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:58:05,220 DEBUG a.c.BooksController [main] search by name start
+2021-06-02 15:58:07,001 DEBUG a.c.BooksController [main] есть  
+2021-06-02 15:58:35,725 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:58:35,734 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:58:39,816 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:58:41,987 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:58:41,987 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:58:41,987 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:58:44,075 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:58:44,075 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:58:44,076 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:58:45,888 DEBUG a.c.BooksController [main] search by name start
+2021-06-02 15:59:22,701 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 15:59:22,711 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 15:59:32,251 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:59:36,678 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 15:59:36,679 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 15:59:36,679 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 15:59:40,422 DEBUG a.c.BooksController [main] search by name start
+2021-06-02 16:00:01,796 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 16:00:01,812 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 16:00:09,638 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 16:00:35,659 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 16:00:35,671 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 16:01:36,653 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 16:02:09,679 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 16:02:09,680 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 16:02:09,680 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 16:02:38,896 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 16:02:42,318 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 16:02:42,330 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 16:02:50,126 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 16:02:57,314 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 16:02:59,354 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 16:03:01,674 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:38:18,371 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 17:38:18,388 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 17:38:20,716 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:38:22,141 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 17:38:22,141 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 17:38:22,142 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:38:23,855 DEBUG a.c.BooksController [main] search by name start
+2021-06-02 17:39:56,695 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 17:39:56,705 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 17:39:58,714 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:39:59,772 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 17:39:59,772 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 17:40:11,380 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 17:40:11,389 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 17:40:12,900 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:40:15,615 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:40:17,795 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:40:20,415 DEBUG a.c.BooksController [main] Error by numeric User enter
+2021-06-02 17:40:20,415 DEBUG a.c.BooksController [main] Back to Main Menu
+2021-06-02 17:41:12,376 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 17:41:12,386 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 17:41:13,970 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:41:14,872 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:41:15,688 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:41:17,424 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:41:48,484 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 17:41:48,495 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 17:41:50,023 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:41:50,644 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:41:51,330 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:41:52,945 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:41:54,090 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:41:54,906 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:41:55,887 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:42:01,864 DEBUG a.c.BooksController [main] search by name start
+2021-06-02 17:42:10,733 DEBUG a.c.BooksController [main] increase cost by book [Book{name='HeadFirstJava, author='Beyts, publish='Almanah, year=1905, countPages=100, cost=1500.75}] for :50
+2021-06-02 17:42:10,733 INFO a.c.BooksController [main] increase cost by book for :50
+2021-06-02 17:42:25,316 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 17:42:25,326 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 17:42:27,819 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:42:28,518 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:42:30,095 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:42:31,545 DEBUG a.c.BooksController [main] search by name start
+2021-06-02 17:42:34,156 DEBUG a.c.BooksController [main] increase cost by book [Book{name='HeadFirstJava, author='Beyts, publish='Almanah, year=1905, countPages=100, cost=2251.125}] for :234
+2021-06-02 17:42:34,156 INFO a.c.BooksController [main] increase cost by book for :234
+2021-06-02 17:42:34,169 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:42:36,622 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:42:38,179 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:43:13,986 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 17:43:13,996 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 17:43:15,106 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:43:26,563 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:43:27,092 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:43:27,490 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:43:27,813 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:43:28,090 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:43:28,361 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:43:29,337 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:43:31,469 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:43:33,696 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 17:44:25,424 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 17:44:25,434 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 17:44:27,529 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:45:17,933 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 17:45:17,941 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 17:45:18,907 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:45:47,663 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 17:45:47,673 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 17:45:48,659 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:46:14,651 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 17:46:14,660 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 17:46:15,633 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:46:18,269 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:46:19,124 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:46:20,010 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:46:21,633 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:46:23,961 DEBUG a.c.BooksController [main] search by name start
+2021-06-02 17:47:33,549 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 17:47:33,558 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 17:47:36,459 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:47:37,820 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:47:38,616 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:47:39,248 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:47:39,923 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:47:40,685 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:47:41,998 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:47:44,707 DEBUG a.c.BooksController [main] search by year start
+2021-06-02 17:47:46,438 DEBUG a.c.BooksController [main] search by year finish
+2021-06-02 17:48:45,302 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 17:48:45,311 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 17:48:46,767 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:48:47,921 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:48:48,678 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:48:49,411 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:48:51,462 DEBUG a.c.BooksController [main] search by year start
+2021-06-02 17:48:53,317 DEBUG a.c.BooksController [main] search by year finish
+2021-06-02 17:48:56,742 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 17:48:56,750 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 17:48:59,951 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:49:02,607 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:49:06,648 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:49:15,632 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:49:20,017 DEBUG a.c.BooksController [main] search by year start
+2021-06-02 17:49:21,894 DEBUG a.c.BooksController [main] search by year finish
+2021-06-02 17:49:33,031 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 17:49:33,040 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 17:49:34,436 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:49:36,824 DEBUG a.c.BooksController [main] search by year start
+2021-06-02 17:49:39,162 DEBUG a.c.BooksController [main] search by year finish
+2021-06-02 17:49:56,152 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 17:49:56,161 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 17:49:57,081 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 17:50:08,546 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 17:50:08,554 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 18:26:43,496 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 18:26:43,514 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 18:27:05,487 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 18:28:02,408 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 18:28:02,421 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 18:28:03,392 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 18:28:04,656 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 18:28:05,561 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 18:28:07,998 DEBUG a.c.BooksController [main] search by year start
+2021-06-02 18:28:10,041 DEBUG a.c.BooksController [main] search by year finish
+2021-06-02 18:28:22,914 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 18:28:22,925 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 18:28:36,094 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 18:29:41,616 DEBUG a.c.BooksController [main] конструктор BooksController вызван
+2021-06-02 18:29:41,626 INFO a.m.SourceBooks [main] заполнение справочника успешно
+2021-06-02 18:29:43,098 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 18:29:45,320 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 18:29:46,498 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 18:29:48,060 DEBUG a.c.BooksController [main] search by year start
+2021-06-02 18:29:51,109 DEBUG a.c.BooksController [main] search by year finish
+2021-06-02 18:29:57,628 DEBUG a.c.BooksController [main] increase cost by book [Book{name='Java.Beginner's Guide, author='Шилдт, publish='Javac, year=2020, countPages=300, cost=450.5}, Book{name='Java.Методы_программирования, author='Блинов, publish='Nebo, year=2020, countPages=200, cost=345.0}] for :50
+2021-06-02 18:29:57,628 INFO a.c.BooksController [main] increase cost by book for :50
+2021-06-02 18:29:57,640 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 18:30:00,543 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 18:30:14,380 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 18:30:16,220 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 18:30:17,129 DEBUG a.c.BooksController [main] Start menu of FindBooks
+2021-06-02 18:30:19,299 DEBUG a.c.BooksController [main] search by name start
+2021-06-02 18:30:28,577 DEBUG a.c.BooksController [main] increase cost by book [Book{name='HeadFirstJava, author='Beyts, publish='Almanah, year=1905, countPages=100, cost=7518.7575}] for :50
+2021-06-02 18:30:28,577 INFO a.c.BooksController [main] increase cost by book for :50
+2021-06-02 18:30:28,579 DEBUG a.c.BooksController [main] End void execute()
+2021-06-02 18:30:33,233 DEBUG a.c.BooksController [main] End void execute()
